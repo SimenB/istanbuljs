@@ -97,6 +97,14 @@ provided directly on the `MapStore` instance.
 
 
 
+## [4.0.2](https://github.com/SimenB/istanbuljs/compare/istanbul-lib-source-maps-v4.0.1...istanbul-lib-source-maps-v4.0.2) (2024-02-26)
+
+
+### Bug Fixes
+
+* source mapping for branch statements ([#518](https://github.com/SimenB/istanbuljs/issues/518)) ([3833708](https://github.com/SimenB/istanbuljs/commit/38337081d97baa6295707d569dee9c4abc3f7da7))
+* use `allGeneratedPositionsFor` for more accurate source map transforms ([#768](https://github.com/SimenB/istanbuljs/issues/768)) ([c6d0982](https://github.com/SimenB/istanbuljs/commit/c6d0982e960f6aed85d9f4c7d1da3b6479bb2272))
+
 ### [4.0.1](https://www.github.com/istanbuljs/istanbuljs/compare/istanbul-lib-source-maps-v4.0.0...istanbul-lib-source-maps-v4.0.1) (2021-10-12)
 
 
